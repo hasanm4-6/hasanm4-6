@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 - **Trainee at Qalam** (2024-)
   - Assisted in the development of internal tools using JavaScript.
-  - 
 
 ---
 
