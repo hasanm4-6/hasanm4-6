@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ## 💼 Professional Experience
 
-- **Trainee at Qalam** (2024-)
+- **Trainee at Qalam** (2024-Present)
   - Assisted in the development of internal tools using JavaScript.
 
 ---
