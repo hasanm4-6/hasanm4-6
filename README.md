@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ## 📫 How to Reach Me
 
-- **Email:** hasanmunir406@gmail.com
+- **Email:** [Hasan's Mail](hasanmunir406@gmail.com)
 - **LinkedIn:** [Hasan's LinkedIn](https://www.linkedin.com/in/hasanmunir/)
 
 ---
@@ -36,8 +36,9 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 ## 🌟 Featured Projects
 
 - [**Tic Tac Toe Game**](https://github.com/hasanm4-6/Tic-Tac-Toe-game) - **Tic Tac Toe game** where two players take turns as 'X' and 'O' to compete, with win/draw detection and a replay feature in a modal popup.
-- [**Rock Paper Scissor Game**](https://github.com/hasanm4-6/Rock-Paper-Scissor-Game) - **Rock Paper Scissors Game** where users play against the computer by selecting an option, with the result displayed in a modal, featuring a clean design and replay functionality.
 - [**Todo List**](https://github.com/hasanm4-6/Todo-List) - **To-Do** List Web Application that allows users to add, edit, and delete tasks, with data persistence using localStorage and a clean, responsive design for dynamic task management.
+- [**Rock Paper Scissor Game**](https://github.com/hasanm4-6/Rock-Paper-Scissor-Game) - **Rock Paper Scissors Game** where users play against the computer by selecting an option, with the result displayed in a modal, featuring a clean design and replay functionality.
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
