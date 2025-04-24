@@ -21,12 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ---
 
-## 📈 GitHub Stats
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanm4-6&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 - **Email:** [Hasan's Mail](hasanmunir406@gmail.com)
