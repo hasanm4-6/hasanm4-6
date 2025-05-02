@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 ## 🌟 Featured Projects
 
 - [**Social Media App**](https://github.com/hasanm4-6/SocialMedia) - **Social Media** with user authentication (JWT), image posting with captions and hashtags, likes, nested comments and replies, OTP-based password reset, and real-time updates using Socket.io.
+- [**Little Lemon Restaurant App**](https://github.com/hasanm4-6/littlelemon) - **Little Lemon** A full-stack Django web application for restaurant management with features like CSRF-protected booking system, date-wise reservation API, dynamic menu display with individual item views, and mobile-responsive UI using Django Templates and custom media queries.
 - [**Tic Tac Toe Game**](https://github.com/hasanm4-6/Tic-Tac-Toe-game) - **Tic Tac Toe game** where two players take turns as 'X' and 'O' to compete, with win/draw detection and a replay feature in a modal popup.
 - [**Todo List**](https://github.com/hasanm4-6/Todo-List) - **To-Do** List Web Application that allows users to add, edit, and delete tasks, with data persistence using localStorage and a clean, responsive design for dynamic task management.
 - [**Rock Paper Scissor Game**](https://github.com/hasanm4-6/Rock-Paper-Scissor-Game) - **Rock Paper Scissors Game** where users play against the computer by selecting an option, with the result displayed in a modal, featuring a clean design and replay functionality.
