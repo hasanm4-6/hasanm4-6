@@ -34,6 +34,26 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ---
 
+## 💼 Professional Certificates
+
+- **Python 3 Programming (University Of Michigan)**
+  - Learn Python 3 basics, from the basics to more advanced concepts like lists and functions.
+  - Practice and become skilled at solving problems and fixing errors in your code.
+  - Gain the ability to write programs that fetch data from internet APIs and extract useful information.
+ 
+- **Meta Back-End Developer**
+  - Gain the technical skills required to become a qualified back-end developer
+  - Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more
+  - Build a portfolio using your new skills and begin interview preparation including tips for what to expect when interviewing for engineering jobs
+  - Learn in-demand programming skills and how to confidently use code to solve problems
+
+- **Full Stack Web Developer Trainee at SeeBiz** (2024-2025)
+  - Built responsive, real-time web apps including a social platform with chat, feeds, and notifications.
+  - Developed secure authentication with password reset & email verification.
+  - Created scalable architecture and improved performance metrics.
+
+---
+
 ## 📫 How to Reach Me
 
 - **Email:** [Hasan's Mail](hasanmunir406@gmail.com)
