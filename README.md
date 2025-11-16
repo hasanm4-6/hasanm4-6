@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ---
 
-## 💼 Professional Experience
+## 👨‍🎓 Professional Experience
 
 - **Full Stack Web Developer at The Social Nexus** (2025-Present)
   -Built full-stack apps.
