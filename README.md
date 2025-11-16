@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ---
 
-## 👨‍🎓 Professional Experience
+## 💼 Professional Experience
 
 - **Full Stack Web Developer at The Social Nexus** (2025-Present)
   -Built full-stack apps.
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ---
 
-## 💼 Professional Certificates
+## 👨‍🎓 Professional Certificates
 
 - **Python 3 Programming (University Of Michigan)**
   - Learn Python 3 basics, from the basics to more advanced concepts like lists and functions.
