@@ -7,17 +7,30 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript
-- **FrontEnd:** HTML, CSS, Bootstrap, JavaScript
-- **Backend:** Node.js, Express.js, Django, MongoDB, MySQL
+- **FrontEnd:** HTML5, CSS3, Bootstrap5, Tailwind4, JavaScript(ES7), React.js(19)
+- **Backend:** Node.js, Express.js, Django, Supabase, MongoDB, MySQL, POstgreSQL
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code
+- **Tools:** VS Code, Insomnia, Postman
 
 ---
 
 ## 💼 Professional Experience
 
-- **Trainee at Qalam** (2024-Present)
-  - Assisted in the development of internal tools using JavaScript.
+- **Full Stack Web Developer at The Social Nexus** (2025-Present)
+  -Built full-stack apps.
+  - Optimized API integrations, SSR performance, and modular component architecture.
+  - Developed real-time features, booking flows, and secure authentication using Supabase.
+  - Collaborated in Agile environment with code reviews and version control workflows.
+ 
+- **Backend Developer at Websolixs** (2025-Present)
+  - Manage backend logic, workflows, and complete server-side architecture of multiple projects.
+  - Integrated external APIs, automated workflows, and ensured clean MVC patterns.
+  - Improved API response time and optimized database queries.
+
+- **Full Stack Web Developer Trainee at SeeBiz** (2024-2025)
+  - Built responsive, real-time web apps including a social platform with chat, feeds, and notifications.
+  - Developed secure authentication with password reset & email verification.
+  - Created scalable architecture and improved performance metrics.
 
 ---
 
