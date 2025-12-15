@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hasan Munir 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer. With a strong work ethic, a commitment to continuous learning, and a drive to innovate, I thrive on tackling challenges and turning creative ideas into practical solutions. Here you'll find a collection of my projects, contributions, and collaborations.
+Welcome to my GitHub profile! I'm a passionate Full Stack Software Engineer with hands-on experience building scalable, production-grade web applications across frontend and backend. Strong focus on backend architecture, database design, and system flow, with proven experience designing APIs, schemas, and application workflows. Experienced in Next.js, React, FastAPI, Supabase, PostgreSQL, MongoDB, and Node.js, delivering end-to-end solutions from UI to deployment. Adept at collaborating in fast-paced environments, translating product requirements into clean, maintainable, and scalable codebases. Passionate about performance, clean architecture, and engineering things the right way—not just making them work.
 
 ---
 
@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 - **Backend:** Node.js, Express.js, FastAPI, Django, Supabase, MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Insomnia, Postman
+- **Architecture & Backend Expertise:** REST API Design, Database Schema Design, Application Flow & System Design, Authentication & Authorization, Scalable Backend Architecture
+
 
 ---
 
@@ -18,13 +20,19 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 - **Full Stack Software Engineer at The Social Nexus** (2025-Present)
   -Built full-stack apps.
+  - Developed scalable frontend interfaces and robust backend services in parallel.
   - Optimized API integrations, SSR performance, and modular component architecture.
-  - Developed real-time features, booking flows, and secure authentication using Supabase.
+  - Designed and implemented end-to-end features, from UI to database.
+  - Focused on performance, scalability, and clean architecture in production environments.
+  - Worked across the stack to rapidly deliver business-critical features.
   - Collaborated in Agile environment with code reviews and version control workflows.
  
 - **Backend Developer at Websolixs** (2025-Present)
   - Manage backend logic, workflows, and complete server-side architecture of multiple projects.
+  - Owned database architecture, including schema design, relationships, and query optimization.
+  - Implemented secure and maintainable backend services using FastAPI, Node.js, and databases.
   - Integrated external APIs, automated workflows, and ensured clean MVC patterns.
+  - Collaborated closely with frontend teams to ensure seamless API integration and performance.
   - Improved API response time and optimized database queries.
 
 - **Full Stack Web Developer Trainee at SeeBiz** (2024-2025)
@@ -46,11 +54,6 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
   - Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more
   - Build a portfolio using your new skills and begin interview preparation including tips for what to expect when interviewing for engineering jobs
   - Learn in-demand programming skills and how to confidently use code to solve problems
-
-- **Full Stack Web Developer Trainee at SeeBiz** (2024-2025)
-  - Built responsive, real-time web apps including a social platform with chat, feeds, and notifications.
-  - Developed secure authentication with password reset & email verification.
-  - Created scalable architecture and improved performance metrics.
 
 ---
 
