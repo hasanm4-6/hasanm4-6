@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, php
 - **FrontEnd:** HTML5, CSS3, Bootstrap5, Tailwind4, JavaScript(ES7), React.js(19)
-- **Backend:** Node.js, Express.js, Django, Supabase, MongoDB, MySQL, POstgreSQL
+- **Backend:** Node.js, Express.js, FastAPI, Django, Supabase, MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Insomnia, Postman
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer. With a strong
 
 ## 💼 Professional Experience
 
-- **Full Stack Web Developer at The Social Nexus** (2025-Present)
+- **Full Stack Software Engineer at The Social Nexus** (2025-Present)
   -Built full-stack apps.
   - Optimized API integrations, SSR performance, and modular component architecture.
   - Developed real-time features, booking flows, and secure authentication using Supabase.
