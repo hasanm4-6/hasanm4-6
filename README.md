@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Software Engineer with
 ## 📫 How to Reach Me
 
 - **Email:** [Hasan's Mail](hasanmunir406@gmail.com)
-- **LinkedIn:** [Hasan's LinkedIn](https://www.linkedin.com/in/hasanmunir/)
+- **LinkedIn:** [Hasan's LinkedIn](https://www.linkedin.com/in/muhammad-hasan-munir-b9a50b394/)
 
 ---
 
