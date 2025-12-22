@@ -44,16 +44,23 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Software Engineer with
 
 ## 👨‍🎓 Professional Certificates
 
-- **Python 3 Programming (University Of Michigan)**
+- **[Python 3 Programming (University Of Michigan)](https://www.coursera.org/account/accomplishments/specialization/2PDHHY3L3X32)**
   - Learn Python 3 basics, from the basics to more advanced concepts like lists and functions.
   - Practice and become skilled at solving problems and fixing errors in your code.
   - Gain the ability to write programs that fetch data from internet APIs and extract useful information.
  
-- **Meta Back-End Developer**
+- **[Meta Back-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/383BWT7NBYK3)**
   - Gain the technical skills required to become a qualified back-end developer
   - Learn to use programming systems including Python Syntax, Linux commands, Git, SQL, Version Control, Cloud Hosting, APIs, JSON, XML and more
   - Build a portfolio using your new skills and begin interview preparation including tips for what to expect when interviewing for engineering jobs
   - Learn in-demand programming skills and how to confidently use code to solve problems
+
+---
+
+## 🎖 Badges
+
+- **Meta Back-End Developer Certificate:** [Credly](https://www.credly.com/badges/484481cb-706a-4a4c-bdfd-5472c4b02eb4/public_url)
+- **Google Developer Badges:** [Google](https://developers.google.com/profile/u/hasanmunir)
 
 ---
 
